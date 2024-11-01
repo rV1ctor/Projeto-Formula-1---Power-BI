@@ -1,7 +1,3 @@
-Aqui está um modelo de README que você pode usar para o seu projeto no GitHub, incluindo um link para adicionar imagens do projeto:
-
----
-
 # Projeto Fórmula 1 - Power BI
 
 ## Descrição do Projeto
@@ -35,10 +31,17 @@ Este projeto oferece uma análise detalhada e visualmente atraente da Fórmula 1
 ## Skills Utilizadas
 - **Power BI**: Ferramenta principal para criação de dashboards e visualização de dados.
 
+## Acesse o Projeto
+Você pode visualizar o projeto completo no Power BI por meio do [link do projeto](https://app.powerbi.com/links/mokceqkPSV?ctid=ad594b64-4b5a-4ce5-95ba-bb7a37b9a86c&pbi_source=linkShare).
+
+
 ## Imagens do Projeto
 Veja abaixo algumas visualizações criadas neste projeto:
 
-![Dashboard 1](link_para_imagem1.png)
-![Dashboard 2](link_para_imagem2.png)
+
 
 ![image](https://github.com/user-attachments/assets/f0a79fed-90b7-4086-8e4b-9d944ca1ef34)
+![image](https://github.com/user-attachments/assets/a88832f2-499c-40ee-8412-bf3071ce7f1f)
+![image](https://github.com/user-attachments/assets/61158512-b6a7-433b-96be-587bde6c8d7b)
+
+
